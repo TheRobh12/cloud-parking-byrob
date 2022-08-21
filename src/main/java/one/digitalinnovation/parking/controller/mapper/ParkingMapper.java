@@ -1,4 +1,4 @@
-package one.digitalinnovation.parking.controller;
+package one.digitalinnovation.parking.controller.mapper;
 
 import java.util.List;
 import java.util.stream.Collectors;

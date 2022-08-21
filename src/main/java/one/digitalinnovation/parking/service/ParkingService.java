@@ -1,6 +1,7 @@
 package one.digitalinnovation.parking.service;
 
 import one.digitalinnovation.parking.model.Parking;
+import one.digitalinnovation.parking.repository.ParkingRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
